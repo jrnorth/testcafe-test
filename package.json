@@ -5,7 +5,7 @@
     "test": "testcafe puppeteer:no_sandbox test.js -S -s screenshots"
   },
   "devDependencies": {
-    "testcafe": "1.6.1",
+    "testcafe": "1.20.1",
     "testcafe-browser-provider-puppeteer": "1.4.0"
   }
 }
